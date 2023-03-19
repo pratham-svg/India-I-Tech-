@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React from 'react'
 import msme from '../../Images/Cer1.jpeg'
 import cer2 from '../../Images/Cer2.jpeg'

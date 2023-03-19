@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React from 'react'
 import SPShrimali from '../../Images/S_P_Shrimali.jpeg'
 import RSP from '../../Images/Radheshyam_Panchariya.jpeg'

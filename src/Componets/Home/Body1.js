@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React from 'react'
 import "react-multi-carousel/lib/styles.css";
 import DS from '../../Images/DH.jpeg'

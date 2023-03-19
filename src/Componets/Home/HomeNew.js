@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React from 'react'
 import Carousel from 'react-bootstrap/Carousel';
 import Home1 from '../../Images/Home1.jpeg'
