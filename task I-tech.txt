@@ -1,0 +1,18 @@
+rsp
+1 IMAGE SIZE, FONT
+2 BACKGROUND CHANGE & FONT SIZE SMALL
+3 health - pattern & font
+  , 
+pp
+offerd services font size increase - dark blue, bullet
+pp
+learn more button color change Blue and white text
+rsp
+digital sarathi logo change
+rsp
+digital health logo + color change
+pp
+association = Our Association add nepfup, arya college
+pp
+certification = box remove
+
