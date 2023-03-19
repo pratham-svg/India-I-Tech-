@@ -42,23 +42,6 @@ const Footer = () => {
           },
           
     ]  
-    const Icons = [
-      {
-        Icons : FaDribbbleSquare
-      },
-      {
-        Icons : FaFacebookSquare
-      },
-      {
-        Icons : FaInstagram
-      },
-      {
-        Icons : FaTwitterSquare
-      },
-      {
-        Icons : AiOutlineLinkedin
-      }
-    ]
       return (
       <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-500'>
        <div>
